@@ -1,7 +1,22 @@
-- 👋 Hi, I’m @jatinkumar987
-- 👀 I’m interested in app development 
-- 🌱 I’m currently learning kotlin
-- 💞️ I’m looking to collaborate on creating Android app
+<ul>
+  <li>👋 Hi, I'm Jatin Kumar, a student from NIET College in Noida.</li>
+  <li>I am passionate about exploring new technologies.</li>
+  <li>I believe in the transformative power of technology to solve real-world challenges.</li>
+  <li>Eager to stay up-to-date with the latest advancements, I actively seek opportunities to delve into cutting-edge technologies.</li>
+  <li>Join me on my journey as I embrace innovation and strive to make a positive impact in the world.</li>
+</ul>
+
+<h2> 👀 I’m interested in </h2>
+-  Internet of Things (IoT) 🌐
+Fullstack Development 🖥️
+Data Analytics 📊
+Cybersecurity 🔒
+Cloud Computing ☁️
+Artificial Intelligence (AI) 🤖
+Blockchain ⛓️
+Machine Learning 🧠 
+
+<h4>- 💞️ "Embracing the convergence of Internet of Things (IoT), Fullstack Development, Data Analytics, and Cybersecurity, I am excited to contribute my expertise in creating cutting-edge technological solutions that empower businesses and drive digital transformation."</h4>
 - 📫 Reach me on linkedin https://www.linkedin.com/in/jatinkumarofficial/
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
