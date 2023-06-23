@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on creating Android app
 - 📫 Reach me on linkedin https://www.linkedin.com/in/jatinkumarofficial/
 
-
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
 <p align="left">
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50" style="margin-right: 10px"/>
