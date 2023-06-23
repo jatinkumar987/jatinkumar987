@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on creating Android app
 - 📫 Reach me on linkedin https://www.linkedin.com/in/jatinkumarofficial/
 
-(https://github.com/jatinkumar987/blob/output/github-contribution-grid-snake.svg)
 
 <p align="left">
   
