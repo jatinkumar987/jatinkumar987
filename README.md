@@ -2,7 +2,7 @@
 - 👀 I’m interested in app development 
 - 🌱 I’m currently learning kotlin
 - 💞️ I’m looking to collaborate on creating Android app
-- 📫 Reach me on linkedin @https://www.linkedin.com/in/jatin-kumar-a1174420a
+- 📫 Reach me on linkedin https://www.linkedin.com/in/jatinkumarofficial/
 
 <!---
 jatinkumar987/jatinkumar987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
