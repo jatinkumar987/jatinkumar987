@@ -1,8 +1,6 @@
 
-  <li>👋 Hi, I'm Jatin Kumar, a student from NIET College in Noida.</li>   
-  
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
-
+  
 <ul>
   <li>👋 Hi, I'm Jatin Kumar, a student from NIET College in Noida.</li>   
   <li>I am passionate about exploring new technologies.</li>
