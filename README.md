@@ -1,10 +1,18 @@
+
+  <li>👋 Hi, I'm Jatin Kumar, a student from NIET College in Noida.</li>   
+  
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+
 <ul>
-  <li>👋 Hi, I'm Jatin Kumar, a student from NIET College in Noida.</li>
+  <li>👋 Hi, I'm Jatin Kumar, a student from NIET College in Noida.</li>   
   <li>I am passionate about exploring new technologies.</li>
   <li>I believe in the transformative power of technology to solve real-world challenges.</li>
   <li>Eager to stay up-to-date with the latest advancements, I actively seek opportunities to delve into cutting-edge technologies.</li>
   <li>Join me on my journey as I embrace innovation and strive to make a positive impact in the world.</li>
 </ul>
+
+
+
 
 <h2> 👀 I’m interested in </h2>
 -  Internet of Things (IoT) 🌐
